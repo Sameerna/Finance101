@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Finance101</string>
+    <string name="title_top">Top fragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_tab">Home</string>
+    <string name="basics_tab">Basics</string>
+    <string name="Investments_tab">Investments</string>
+    <string name="loans_tab">Loans</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="Basics">
+        <item> Assets </item>
+        <item> Liability </item>
+        <item> Net Worth </item>
+        <item> Cash flow </item>
+        <item> Return on Investment </item>
+    </string-array>
+    <string-array name="Investments">
+        <item>Equity</item>
+        <item>Bonds</item>
+        <item>Mutual Funds</item>
+        <item>Real estate</item>
+        <item>Nation Pension System</item>
+        <item>Public Provident Fund</item>
+    </string-array>
+    <string-array name="Loans">
+        <item> Personal Loan</item>
+        <item>Home Loan</item>
+        <item>Car Loan</item>
+        <item>Education Loan</item>
+        <item>Loan Against FD</item>
+    </string-array>
+</resources>
